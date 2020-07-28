@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="utf-8" />
+    <title>Istorie si Cultura</title>
+    <style>
+        body {
+            background-image: url('../Imagini/Sunset-4K-Ultra-HD-Wallpaper-Backgrounds-1024x576.jpg');
+        }
+
+        div.gallery {
+            border: 1px solid #ccc;
+        }
+
+            div.gallery:hover {
+                border: 1px solid #777;
+            }
+
+            div.gallery img {
+                width: 100%;
+                height: auto;
+            }
+
+        div.desc {
+            padding: 15px;
+            text-align: center;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .responsive {
+            padding: 0 6px;
+            float: left;
+            width: 24.99999%;
+        }
+
+        @media only screen and (max-width: 700px) {
+            .responsive {
+                width: 49.99999%;
+                margin: 6px 0;
+            }
+        }
+
+        @media only screen and (max-width: 500px) {
+            .responsive {
+                width: 100%;
+            }
+        }
+
+        .clearfix:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+    </style>
+    <link href="../CSS/Grid.css" rel="stylesheet" />
+</head>
+<body>
+    <canvas id="myCanvas" width="500" height="150" style="border:1px solid #d3d3d3;"></canvas>
+
+        <div class="row container-fluid">
+            <script>
+                var c = document.getElementById("myCanvas");
+                var ctx = c.getContext("2d");
+                ctx.font = "40px Arial";
+                ctx.fillStyle = "white";
+                ctx.fillText("Istorie si cultura", 100, 100);
+            </script>
+        </div>
+
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="StradaVantului.html">
+                        <img src="../Imagini/info-sud-est-stradela-vantului15-1002x760.jpg"  alt="Strada Vantului" width="600" height="400">
+                    </a>
+                    <div class="desc" style="color:white" >Stradela Vântului, învăluită în legende și ghemuită între bijuterii arhitectonice ruinate</div>
+                </div>
+            </div>
+
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="CasaCuLei.html">
+                        <img src="../Imagini/casa-cu-lei-constanta.jpg" alt="Forest" width="600" height="400">
+                    </a>
+                    <div class="desc" style="color:white" >Casa cu lei, imobilul care a declanșat pasiunea de-o viață a celui mai mare colecționar român de artă, Krikor Zambaccian</div>
+                </div>
+            </div>
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="Subacvatic.html">
+                        <img src="../Imagini/Marea-Neagra-6.jpg" alt="Northern Lights" width="600" height="400">
+                    </a>
+                    <div class="desc" style="color:white">Arheologia subacvatică va scoate la lumină artefactele din Marea Negră</div>
+                </div>
+            </div>
+
+            <div class="responsive">
+                <div class="gallery">
+                    <a target="_blank" href="moschee.html">
+                        <img src="../Imagini/12__moscheea_carol.jpg" alt="Mountains" width="600" height="400">
+                    </a>
+                    <div class="desc" style="color:white">Carol I, moscheea construită la cererea regelui</div>
+                </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <h1 style="color:white" >LECTURA PLACUTA!</h1>
+
+</body>
+</html>

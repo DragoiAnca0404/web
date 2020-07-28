@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "CSS/s.css",
+    "inputFile": "SASS/s.scss"
+  },
+  {
+    "outputFile": "CSS/leg.css",
+    "inputFile": "SASS/leg.scss"
+  }
+]

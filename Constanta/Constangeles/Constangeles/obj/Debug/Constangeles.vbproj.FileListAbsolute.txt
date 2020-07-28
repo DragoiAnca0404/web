@@ -1,0 +1,126 @@
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Constangeles.dll.config
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Constangeles.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Constangeles.pdb
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Constangeles.xml
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csc.exe
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csc.exe.config
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csc.rsp
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csi.exe
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csi.exe.config
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\csi.rsp
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Managed.Core.targets
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.AppContext.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Collections.Immutable.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Console.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Globalization.Calendars.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.Compression.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.FileSystem.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Net.Http.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Net.Sockets.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Reflection.Metadata.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.ValueTuple.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XmlDocument.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XPath.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\vbc.exe
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\vbc.exe.config
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\vbc.rsp
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\VBCSCompiler.exe
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\roslyn\VBCSCompiler.exe.config
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbprojAssemblyReference.cache
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.Resources.resources
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.GenerateResource.cache
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.CoreCompileInputs.cache
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.CopyComplete
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.dll
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.xml
+H:\proiecte\PROIECT CIUCA_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.pdb
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Constangeles.dll.config
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Constangeles.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Constangeles.pdb
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Constangeles.xml
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csc.exe
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csc.exe.config
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csc.rsp
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csi.exe
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csi.exe.config
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\csi.rsp
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Managed.Core.targets
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.AppContext.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Collections.Immutable.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Console.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Globalization.Calendars.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.Compression.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.FileSystem.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Net.Http.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Net.Sockets.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Reflection.Metadata.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.ValueTuple.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XmlDocument.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XPath.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\vbc.exe
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\vbc.exe.config
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\vbc.rsp
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\VBCSCompiler.exe
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\roslyn\VBCSCompiler.exe.config
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbprojAssemblyReference.cache
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.Resources.resources
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.GenerateResource.cache
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.CoreCompileInputs.cache
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.vbproj.CopyComplete
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.dll
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.xml
+H:\proiecte\PROIECT_WEB\Constangeles\Constangeles\obj\Debug\Constangeles.pdb

@@ -1,0 +1,24 @@
+﻿$bgcolor: white;
+$textcolor: black;
+$fontsize: 18px;
+$fs: 64px;
+$pos: center;
+
+body {
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-size: $fontsize;
+}
+
+h1 {
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-size: $fs;
+    text-align: $pos;
+}
+
+p {
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-size: $fontsize;
+}
